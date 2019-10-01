@@ -1,0 +1,30 @@
+{
+  "name": "puppeteer-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "basics.ts",
+  "dependencies": {
+    "@types/node": "^12.7.8",
+    "@types/puppeteer": "^1.20.0",
+    "cucumber": "^5.1.0",
+    "node": "^12.11.0",
+    "puppeteer": "^1.20.0"
+  },
+  "devDependencies": {
+    "typescript": "^3.6.3"
+  },
+  "scripts": {
+    "test": "node typeScript/basics.js",
+    "tsc": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayankverma24/puppeteer-learning.git"
+  },
+  "author": "Mayank Verma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayankverma24/puppeteer-learning/issues"
+  },
+  "homepage": "https://github.com/mayankverma24/puppeteer-learning#readme"
+}
